@@ -14,7 +14,7 @@
 
 export default function convertBytesToHuman(bytes) {
   if(isNaN(bytes)){
-    return false
+    return false 
   }
   if(bytes==Infinity){
     return false
