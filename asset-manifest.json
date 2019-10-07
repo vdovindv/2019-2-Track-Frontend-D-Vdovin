@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/2019-2-Track-Frontend-D-Vdovin/static/css/main.b4eae362.chunk.css",
+    "main.js": "/2019-2-Track-Frontend-D-Vdovin/static/js/main.4ef24af2.chunk.js",
+    "main.js.map": "/2019-2-Track-Frontend-D-Vdovin/static/js/main.4ef24af2.chunk.js.map",
+    "runtime-main.js": "/2019-2-Track-Frontend-D-Vdovin/static/js/runtime-main.661972be.js",
+    "runtime-main.js.map": "/2019-2-Track-Frontend-D-Vdovin/static/js/runtime-main.661972be.js.map",
+    "static/js/2.ef3bba71.chunk.js": "/2019-2-Track-Frontend-D-Vdovin/static/js/2.ef3bba71.chunk.js",
+    "static/js/2.ef3bba71.chunk.js.map": "/2019-2-Track-Frontend-D-Vdovin/static/js/2.ef3bba71.chunk.js.map",
+    "index.html": "/2019-2-Track-Frontend-D-Vdovin/index.html",
+    "precache-manifest.a9b442af5891a91febf9f78d70dd2a7b.js": "/2019-2-Track-Frontend-D-Vdovin/precache-manifest.a9b442af5891a91febf9f78d70dd2a7b.js",
+    "service-worker.js": "/2019-2-Track-Frontend-D-Vdovin/service-worker.js",
+    "static/css/main.b4eae362.chunk.css.map": "/2019-2-Track-Frontend-D-Vdovin/static/css/main.b4eae362.chunk.css.map",
+    "static/media/logo.svg": "/2019-2-Track-Frontend-D-Vdovin/static/media/logo.795fb555.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.661972be.js",
+    "static/js/2.ef3bba71.chunk.js",
+    "static/css/main.b4eae362.chunk.css",
+    "static/js/main.4ef24af2.chunk.js"
+  ]
+}
